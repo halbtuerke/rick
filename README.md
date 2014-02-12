@@ -11,7 +11,9 @@ rick.awesome(); // "awesome"
 ```
 
 ## Documentation
-_(Coming soon)_
+Simulates fully functional Rick. Also improves his advanced style of operation by 42%.
+Use with caution!
+Don't overfeed.
 
 ## Examples
 Open the browser in subreddit gif every 30 seconds.
