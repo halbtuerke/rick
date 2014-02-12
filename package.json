@@ -34,7 +34,8 @@
     "grunt": "~0.4.2"
   },
   "dependencies": {
-    "open": "~0.0.4"  
+      "open": "~0.0.4",
+      "request": "latest"
   },
   "keywords": []
 }
