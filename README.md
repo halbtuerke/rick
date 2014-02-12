@@ -14,7 +14,12 @@ rick.awesome(); // "awesome"
 _(Coming soon)_
 
 ## Examples
-_(Coming soon)_
+Open the browser in subreddit gif every 30 seconds.
+
+```javascript
+var rick = require('rick');
+rick.interwebz(30, "gif");
+```
 
 ## Contributing
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
